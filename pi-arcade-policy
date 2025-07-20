@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Privacy Policy - Pi Arcade Slots</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background-color: #fafafa;
+      color: #222;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #333366;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy for Pi Arcade Slots</h1>
+  <p><strong>Last updated:</strong> July 16, 2025</p>
+
+  <p>This Privacy Policy explains how Pi Arcade Slots (“we,” “our,” or “us”) collects, uses, and protects user information within the Pi Network ecosystem.</p>
+
+  <h2>1. Information We Collect</h2>
+  <ul>
+    <li>We do <strong>not collect personal information</strong> such as names or contact info.</li>
+    <li>We store basic in-game stats and token balances using the browser's <strong>local storage</strong>.</li>
+    <li>No data is transmitted or shared with third parties.</li>
+  </ul>
+
+  <h2>2. Use of Information</h2>
+  <p>Data is used solely to display your progress (leaderboard rank, token count, cosmetics owned). Future updates may include optional cloud saving, with your permission.</p>
+
+  <h2>3. Data Security</h2>
+  <p>All gameplay data is stored securely on your device. If Pi Wallet connection is implemented, we will comply with all Pi Network security protocols.</p>
+
+  <h2>4. Your Rights</h2>
+  <p>You may clear your browser data at any time to delete local game data. We do not track users or collect external personal data.</p>
+
+  <h2>5. Changes to This Policy</h2>
+  <p>We may update this policy as new features are introduced. Any updates will be posted here.</p>
+
+  <h2>6. Contact Us</h2>
+  <p>If you have any questions, contact the developer through the Pi App Studio or in-app messaging.</p>
+
+</body>
+</html>
